@@ -1,0 +1,11 @@
+{
+  "inputTriangles": 188660,
+  "outputTriangles": 50000,
+  "inputVertices": 161116,
+  "outputVertices": 25117,
+  "relativeError": 0.0008969357004389167,
+  "lineSegments": 24453,
+  "cadEdgeSha256": "d080dfa6c860efd9685b565cccc5e85c0b41cd4ee4cc64f46862fd783eb1e90d",
+  "glbBytes": 1790880,
+  "gzipBytes": 782851
+}
