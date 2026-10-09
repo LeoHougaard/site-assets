@@ -1,0 +1,12 @@
+{
+  "sourceBytes": 26832029,
+  "glbBytes": 6718656,
+  "gzipBytes": 2867663,
+  "vertices": 161116,
+  "triangles": 188660,
+  "lineSegments": 24453,
+  "solids": 94,
+  "toleranceMm": 0.1,
+  "angularToleranceRadians": 0.3,
+  "durationSeconds": 55.66
+}
